@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/WordleTimed/static/css/main.e6c13ad2.css",
-    "main.js": "/WordleTimed/static/js/main.8ba07058.js",
+    "main.js": "/WordleTimed/static/js/main.00539316.js",
     "static/js/453.31437c9f.chunk.js": "/WordleTimed/static/js/453.31437c9f.chunk.js",
     "index.html": "/WordleTimed/index.html",
     "main.e6c13ad2.css.map": "/WordleTimed/static/css/main.e6c13ad2.css.map",
-    "main.8ba07058.js.map": "/WordleTimed/static/js/main.8ba07058.js.map",
+    "main.00539316.js.map": "/WordleTimed/static/js/main.00539316.js.map",
     "453.31437c9f.chunk.js.map": "/WordleTimed/static/js/453.31437c9f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.8ba07058.js"
+    "static/js/main.00539316.js"
   ]
 }
